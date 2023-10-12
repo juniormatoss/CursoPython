@@ -11,6 +11,7 @@ try:
     print('FLOAT:', numero_float)
     print(f'O dobro de {numero_str} é {numero_float * 2:.2f}')
 except:
+    
     print('Isso não é um número')
 
 #if numero_str.isdigit():
