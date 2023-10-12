@@ -12,7 +12,7 @@ while True:
         lista.append(valor)
 
     elif opcao == "a":
-        indice_str = input("Digite o indice para apagar: ")
+        indice_str = input("Digite o indice para apagar  : ")
 
 
         try:
