@@ -1,6 +1,7 @@
 def criar_multiplicador(multiplicador):
     def multiplicar(numero):
         return numero * multiplicador
+    
     return multiplicar    
 
 
