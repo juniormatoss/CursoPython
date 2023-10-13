@@ -5,6 +5,8 @@ def criar_multiplicador(multiplicador):
 
 
 duplicar = criar_multiplicador(2)
+
+
 triplicar = criar_multiplicador(3)
 
 
